@@ -1,0 +1,12 @@
+{
+  "name": "colorchanger",
+  "version": "1.0.0",
+  "description": "Dynamic color changing ball web app",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --open=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
