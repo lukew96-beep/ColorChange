@@ -4,8 +4,11 @@ This project is a simple interactive web app that displays a ball which changes 
 
 ## How to Use
 
-1. Open `index.html` in your browser.
-2. Click the "Change!" button to see the ball transform.
+1. Hit "Code"
+2. Hit "Download"
+3. Unzip File
+5.  Open `index.html` in your browser.
+6. Click the "Change!" button to see the ball transform.
 
 ## Features
 - Ball changes to random colors, shapes (circle, square, oval, rectangle, rounded square), and sizes.
